@@ -16,7 +16,7 @@ git clone https://github.com/shrutidip/Human-Detection-and-Counting.git
 cd Human-Detection-and-Counting
 
 
-2. **Install dependencies**:
+2. **Install dependencies**: pip install opencv-python imutils
 
 ### Running the Script
 
@@ -30,9 +30,9 @@ You can use the script to detect humans in images or videos and optionally save 
 
 #### Examples
 
-1. **Detect humans in a video**:
+1. **Detect humans in a video**: python human_detection.py -v path_to_video.mp4
 
-2. **Detect humans in an image and save the output**:
+2. **Detect humans in an image and save the output**: python human_detection.py -i path_to_image.jpg -o output_image.jpg
 
 ### Interacting with the Script
 
