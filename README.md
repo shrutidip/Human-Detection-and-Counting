@@ -11,7 +11,10 @@ This Python script uses OpenCV's HOG (Histogram of Oriented Gradients) descripto
 ## Usage
 
 ### Setup
-1. **Clone the repository**: 
+1. **Clone the repository**:
+git clone https://github.com/shrutidip/Human-Detection-and-Counting.git
+cd Human-Detection-and-Counting
+
 
 2. **Install dependencies**:
 
